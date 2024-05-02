@@ -70,7 +70,7 @@ Task 5) Calculate the net total (total income - total expenses) and return it.
 Task 6) Identify and create a new array with transactions (both incomes and expenses) above $500.
        Output 6) [["income", 1000], ["income", 1500]]
 
-******************************************************************/
+*******************************************************************/
 const totaltransaction = totalincome - totalexpense;
 
 console.log(totaltransaction);
